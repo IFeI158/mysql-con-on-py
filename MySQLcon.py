@@ -4,7 +4,7 @@ try:
     con = psql.connect(
         host="localhost",
         user="root",
-        password="deu0810314270#",
+        password="123",
         database="example",
         charset="utf8"
     )
